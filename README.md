@@ -1,5 +1,7 @@
 # Ansible role `mariadb`
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ansible-role-mariadb.svg)](https://www.guardrails.io)
+
 An Ansible role for managing MariaDB in RedHat-based distributions. Specifically, the responsibilities of this role are to:
 
 - Install MariaDB packages
